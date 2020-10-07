@@ -1,6 +1,6 @@
 {
   "name": "@payburner/keyburner-core",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "description": "Models library for Core Payburner",
   "keywords": [
     "NACL",
